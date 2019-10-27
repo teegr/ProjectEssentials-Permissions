@@ -12,7 +12,7 @@ Releases page: https://github.com/ProjectEssentials/ProjectEssentials-Permission
 
 The minecraft forge folder structure below will help you understand what is written below.
 
-Also don't forget install dependency:
+Don't to forget install dependency:
   - core: https://github.com/ProjectEssentials/ProjectEssentials-Core/releases
 
 
@@ -37,7 +37,7 @@ After that, go into a single world, then try to write the `/essentials permissio
 
 #### 1.4 Control permissions via minecraft commands.
 
-We understand that there are lazy people who do not like to dig into files (lol, although it’s easier through a file), we made the commands for you:
+If you rather not dig into files although it’s easier through a file, you can use the commands below:
 
 ```
 /essentials permissions
@@ -158,7 +158,7 @@ If something goes according to the cunt, and your configuration flies, just dele
 
 ### 2.3 API usage.
 
-I could not write this damn documentation at all and spend time on it, because it is so fucking understandable. But just in case, I will nevertheless sign here some trifles.
+I could not write this damn documentation at all and spend time on it, But just in case, I will nevertheless sign here some trifles.
 
 Let's start small?
 
@@ -282,4 +282,4 @@ PermissionsAPI.setUserPermissionNode
 
 ## These are all API methods, I think you understand that everything is very simple.
 
-### For all questions, be sure to write issues!
+### If you have any questions, make sure to let me know!
